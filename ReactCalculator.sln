@@ -1,0 +1,27 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32630.192
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{54A90642-561A-4BB1-A94E-469ADEE60C69}") = "ReactCalculator", "ReactCalculator\ReactCalculator.esproj", "{9FCE24AC-0624-423B-89B1-6B6F41333AD3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9FCE24AC-0624-423B-89B1-6B6F41333AD3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9FCE24AC-0624-423B-89B1-6B6F41333AD3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9FCE24AC-0624-423B-89B1-6B6F41333AD3}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{9FCE24AC-0624-423B-89B1-6B6F41333AD3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9FCE24AC-0624-423B-89B1-6B6F41333AD3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9FCE24AC-0624-423B-89B1-6B6F41333AD3}.Release|Any CPU.Deploy.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {746318D7-6C4F-49EA-B876-13BAA6D5AFA4}
+	EndGlobalSection
+EndGlobal
